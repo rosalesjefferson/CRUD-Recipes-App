@@ -1,5 +1,4 @@
 # CRUD-Recipes-App
-Vue.JS & Firebase - Recipes Apps is a website that you can create recipes, update and delete.
 # install dependencies
 npm install
 
